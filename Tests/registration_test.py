@@ -1,6 +1,6 @@
 from Actions.registration_actions import RegistrationActions
 from Locators.registration_locators import RegistrationLocators
-import time
+
 
 registration_actions = RegistrationActions()
 
