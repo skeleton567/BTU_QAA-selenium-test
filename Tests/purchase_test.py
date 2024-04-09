@@ -1,4 +1,3 @@
-
 from Locators.purchase_locators import PurchaseLocators
 from Actions.purchase_actions import PurchaseActions
 
